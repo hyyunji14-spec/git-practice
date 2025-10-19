@@ -3,3 +3,4 @@ print("Hello, GitHub!")
 def greet():
     print("Hello from function!")
 greet()
+# Program finished
